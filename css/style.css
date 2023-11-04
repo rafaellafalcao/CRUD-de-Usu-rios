@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+} 
+  .user-form, .user-list {
+    display: inline-block;
+    margin: 20px;
+    vertical-align: top;
+  }
+  
+  input, button {
+    margin: 5px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin: 5px 0;
+  }
